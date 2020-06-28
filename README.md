@@ -1,7 +1,8 @@
 # William-He-Project_Portfolio
 # Project 1: [Tree-models-to-do-classification-for-adult-dataset](https://github.com/hexiantao138/Tree-models-to-do-classification-for-adult-dataset)
-* Use Decision tree and Random forest to predict the label for adult dataset
-* Supervised learning
+* Dataset can be downloaded here: http://archive.ics.uci.edu/ml/datasets/Adult
+* Data Preprocess: 1. Delete null values 2. remove duplicate values 3.One-hot-encoder to attributes 4.change Salary <=50k to label 0 and >50k to lable 1
+* Use Decision tree and Random forest models to train and predict the label for adult dataset
 * The training set and test set both have labels
 # Project 2: [Text-classification-for-twitter](https://github.com/hexiantao138/Text-classification-for-twitter)
 * Supervised learning of predicting twitter label.
