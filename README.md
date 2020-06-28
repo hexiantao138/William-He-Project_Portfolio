@@ -1,7 +1,14 @@
 # William-He-Project_Portfolio
 # Project 1: [Tree-models-to-do-classification-for-adult-dataset](https://github.com/hexiantao138/Tree-models-to-do-classification-for-adult-dataset)
 * Dataset can be downloaded here: http://archive.ics.uci.edu/ml/datasets/Adult
-* Data Preprocess: 1. Delete null values 2. remove duplicate values 3.One-hot-encoder to attributes 4.change Salary <=50k to label 0 and >50k to lable 1
+## Data Preprocess: 
+* Delete null values 
+* remove duplicate values 
+* One-hot-encoder to attributes 
+* change Salary <=50k to label 0 and >50k to lable 1
+## Data Analysis 
+* 
+## Construct Tree models 
 * Use Decision tree and Random forest models to train and predict the label for adult dataset
 * The training set and test set both have labels
 # Project 2: [Text-classification-for-twitter](https://github.com/hexiantao138/Text-classification-for-twitter)
