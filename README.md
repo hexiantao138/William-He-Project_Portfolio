@@ -5,7 +5,15 @@
 * 数据挖掘二分类项目
 * 工具：Python, Pandas, Matplotlib, Numpy, Seaborn, Scikit-learn 
 * 模型选择：决策树，随机森林，逻辑回归
-## Project 2: [基于推特内容预测有无种族/性别歧视（文本挖掘课程项目）](https://github.com/hexiantao138/Text-classification-for-twitter)
+## Project 2: [猫狗图像自动识别（Kaggle竞赛项目）](https://github.com/hexiantao138/Dogs-vs-Cats-Kaggle)
+* 数据集链接：https://www.kaggle.com/c/dogs-vs-cats
+* 项目描述：任意一张猫狗图像实现自动分类，正确率达90%
+* 图像识别二分类项目
+* 工具：Python, OpenCV
+* 模型：卷积神经网络（CNN）
+* 最终效果：
+![](/project%204.jpg)
+## Project 3: [基于推特内容预测有无种族/性别歧视（文本挖掘课程项目）](https://github.com/hexiantao138/Text-classification-for-twitter)
 * 训练集：https://github.com/hexiantao138/Text-classification-for-twitter/blob/master/train.csv
 * 测试集：https://github.com/hexiantao138/Text-classification-for-twitter/blob/master/test.csv
 * 项目描述：根据任意一段推特文字（英语）内容，可以自动判断其内容含义有无性别/种族歧视。
@@ -14,7 +22,7 @@
 * 模型：朴素贝叶斯，逻辑回归，支持向量机。
 * 类别分类为0/1，0代表无性别/种族歧视，1代表有性别/种族歧视。
 * 后续：可以构建神经网络模型，效果更佳。
-## Project 3: [基于黑白人体轮廓图像与特征点的互相自动识别 （毕业设计项目）](https://github.com/hexiantao138/Machine-learning-models-for-image-generation-and-key-points-detection)
+## Project 4: [基于黑白人体轮廓图像与特征点的互相自动识别 （毕业设计项目）](https://github.com/hexiantao138/Machine-learning-models-for-image-generation-and-key-points-detection)
 * 数据集链接：https://github.com/hexiantao138/Machine-learning-models-for-image-generation-and-key-points-detection
 * 项目描述：此项目可分为两大类：1.根据人体轮廓图自动识别特征点：肩点，腰点，臀点，足点，胯点。2.根据人体特征点自动画出人体轮廓。
 * 图像数据识别与处理项目
@@ -23,11 +31,3 @@
 * 注意：项目的预测效果高度依赖于数据集的无异常值，高质量程度。
 * 最终效果：
 ![](/project3.png)
-## Project 4: [猫狗图像自动识别（Kaggle竞赛项目）](https://github.com/hexiantao138/Dogs-vs-Cats-Kaggle)
-* 数据集链接：https://www.kaggle.com/c/dogs-vs-cats
-* 项目描述：任意一张猫狗图像实现自动分类，正确率达90%
-* 图像识别二分类项目
-* 工具：Python, OpenCV
-* 模型：卷积神经网络（CNN）
-* 最终效果：
-![](/project%204.jpg)
