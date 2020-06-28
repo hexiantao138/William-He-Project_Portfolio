@@ -18,4 +18,4 @@
 # Project 4: [Dogs-vs-Cats-images-classification](https://github.com/hexiantao138/Dogs-vs-Cats-Kaggle)
 * Create an algorithm to distinguish dogs from cats
 * The main purpose of this project can be found in this website link: https://www.kaggle.com/c/dogs-vs-cats
-* Training dataset and test dataset can be downloaded in the lin
+* Training dataset and test dataset can be downloaded in the link
