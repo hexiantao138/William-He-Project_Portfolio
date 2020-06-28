@@ -12,7 +12,7 @@
 * 工具：Python, OpenCV
 * 模型：卷积神经网络（CNN）
 * 最终效果：
-![](/project%204.jpg)
+![](/project2.png)
 ## Project 3: [基于推特内容预测有无种族/性别歧视（文本挖掘课程项目）](https://github.com/hexiantao138/Text-classification-for-twitter)
 * 训练集：https://github.com/hexiantao138/Text-classification-for-twitter/blob/master/train.csv
 * 测试集：https://github.com/hexiantao138/Text-classification-for-twitter/blob/master/test.csv
