@@ -1,6 +1,9 @@
 # William-He-Project_Portfolio
 
 # Project 1: [Tree-models-to-do-classification-for-adult-dataset](https://github.com/hexiantao138/Tree-models-to-do-classification-for-adult-dataset)
+* Use Decision tree and Random forest to predict the label for adult dataset
+* Supervised learning
+* The training set and test set both have labels
 # Project 2: [Text-classification-for-twitter](https://github.com/hexiantao138/Text-classification-for-twitter)
 * Supervised learning of predicting twitter label.
 * raw data are both train.csv and test.csv.
