@@ -29,6 +29,5 @@
 * 图像识别二分类项目
 * 工具：Python, OpenCV
 * 模型：卷积神经网络（CNN）
-![](/CNN.png)
 * 最终效果：
 ![](/project3%20%E6%95%88%E6%9E%9C.png)
