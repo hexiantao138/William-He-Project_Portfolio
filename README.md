@@ -35,6 +35,7 @@
 * 注意：项目的预测效果高度依赖于数据集的无异常值，高质量程度。
 * 最终效果：
 ![](/project3.png)
+![](/image.png)
  
 ### Project 5: [一段连续视频中的指定物体追踪](https://github.com/hexiantao138/Lucas-Kanada-object-detection) 
 * 计算机视觉项目
